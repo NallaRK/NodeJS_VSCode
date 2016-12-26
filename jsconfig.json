@@ -13,8 +13,7 @@
 
 	"typeAcquisition": {
 		"include": [
-			"http",
-			"fs"
+			"express"
 		]
 	},
 	"typescript.tsserver.trace": "verbose"

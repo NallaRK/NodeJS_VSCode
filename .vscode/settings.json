@@ -1,5 +1,5 @@
-{
 
+{
   "http.proxy": "http://userid:password@proxy_url:1234/",
   "http.proxyStrictSSL": false,
 
